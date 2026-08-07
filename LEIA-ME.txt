@@ -1,0 +1,31 @@
+ZOOFLORA · Clínica Veterinária 24h · Landing Page
+=================================================
+
+Coloque os arquivos abaixo NESTA MESMA PASTA, todos em .webp:
+
+LOGO (obrigatória · também é o favicon)
+  logo.webp          -> logo da Zooflora (quadrada, fundo transparente ou branco)
+
+DEPOIMENTOS (prints reais do Google · carrossel)
+  1.webp
+  2.webp
+  3.webp
+  4.webp
+  5.webp
+  (pode enviar menos de 5: os que faltarem somem sozinhos do carrossel)
+
+FOTOS DA CLÍNICA (alternam com efeito fade)
+  clinica1.webp
+  clinica2.webp
+  clinica3.webp
+  clinica4.webp
+  (ideal: proporção 4:3, ex. 1200x900px · as que faltarem somem sozinhas)
+
+PENDÊNCIA
+  No index.html, dentro da tag <script> do topo, troque CLARITY_ID
+  pelo ID do projeto no Microsoft Clarity (clarity.microsoft.com).
+
+JÁ CONFIGURADO
+  WhatsApp: +55 48 99938-0416 (número nunca aparece na tela, só nos botões)
+  Google Tag Manager: GTM-TCRL696L
+  Mapa: embed da Clínica Veterinária Zooflora
